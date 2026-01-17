@@ -298,7 +298,7 @@ export default defineConfig({
 | `paypal.png` | Payment option | ~20px height |
 | `visa.png` | Payment option | ~16px height |
 
-## 🔧 Customization
+## Customization
 
 ### Colors
 
@@ -332,7 +332,7 @@ All icons are built as functional React components returning SVG elements, makin
 - Tree-shakeable for optimal bundle size
 - Type-safe with TypeScript
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The landing page is fully responsive with the following breakpoints:
 
@@ -387,7 +387,7 @@ Each stat includes:
 - Brand color for visual hierarchy
 - Fixed width for alignment
 
-## 🏗️ Build Process
+## Build Process
 
 ### Development Build
 ```bash
