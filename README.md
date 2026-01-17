@@ -1,8 +1,8 @@
-# 🐕 Premium Dog Food Landing Page
+# Premium Dog Food Landing Page
 
 A modern, responsive landing page for premium healthy dog food products, built with React, TypeScript, and Tailwind CSS.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -12,7 +12,7 @@ A modern, responsive landing page for premium healthy dog food products, built w
 | Tailwind CSS | 4.1.18 | Utility-first CSS framework |
 | ESLint | 9.39.1 | Code linting and quality |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 landing-page/
@@ -47,7 +47,7 @@ landing-page/
 └── tsconfig.json            # TypeScript configuration
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Installation
 
@@ -78,7 +78,7 @@ npm run dev
 | `npm run preview` | Preview production build locally |
 | `npm run lint` | Run ESLint to check for code quality issues |
 
-## 📖 Code Architecture
+##  Code Architecture
 
 ### Application Entry Point (`src/main.tsx`)
 
@@ -257,7 +257,7 @@ export default defineConfig({
 - Strict type checking enabled
 - JSX support for React
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 
@@ -282,7 +282,7 @@ export default defineConfig({
 | Tablet | `md:` | ≥ 768px |
 | Desktop | `lg:` | ≥ 1024px |
 
-## 🖼️ Assets Overview
+##  Assets Overview
 
 ### Images
 
@@ -353,7 +353,7 @@ The landing page is fully responsive with the following breakpoints:
 - Maximum width containers (6xl / ~72rem)
 - Hover effects and transitions
 
-## 🎯 Key Features Explained
+##  Key Features Explained
 
 ### Split Product Image
 The central product image uses a clever split design technique:
@@ -413,11 +413,11 @@ npm run preview
 - Serve the built application locally
 - Test production build behavior
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this project and customize it for your own dog food brand or pet-related business!
 
-## 📄 License
+## License
 
 This project is open source and available for personal & commercial use.
 
