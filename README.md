@@ -53,8 +53,8 @@ landing-page/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/parsimeikoikai/product-page
-cd landing-page
+git clone https://github.com/parsimeikoikai/product-page.git
+cd  product-page
 ```
 
 2. Install dependencies:
