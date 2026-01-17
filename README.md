@@ -419,5 +419,5 @@ Feel free to fork this project and customize it for your own dog food brand or p
 
 ## 📄 License
 
-This project is open source and available for personal and commercial use.
+This project is open source and available for personal & commercial use.
 
